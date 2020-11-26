@@ -1,0 +1,17 @@
+/Anulacion.feature
+/CargaColectiva.feature
+/EmisionIncExcProcesoVehicular.feature
+/EmisionPago.feature
+/EmisionPagoSuspendido.feature
+/EmisionPolizaSoat.feature
+/EndosoAnexo.feature
+/EndosoCesionDerecho.feature
+/EndosoDeContratantes.feature
+/EndosoParticularConMovPrima.feature
+/EndosoParticularRevertir.feature
+/EndosoParticularSinMovPrima.feature
+/RobocopValidacionUsuario.feature
+/VehiculoEmision.feature
+/VehiculoEmisionBNR.feature
+/VehiculoEndosoResponsablePago.feature
+/VerificarPolizaCCM.feature
